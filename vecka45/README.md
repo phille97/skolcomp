@@ -44,8 +44,8 @@ Data om talen i triangeln läses in från en textfil INPUT.TXT. För exemplet ov
 #### Output
 ```
 7
+3
 8
-1
 7
 5
 ```
